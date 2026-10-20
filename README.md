@@ -1,22 +1,68 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dsharma4041&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dsharma4041&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsharma4041&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hi, I'm Dikshant Sharma 👋
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Computer Science @ Arizona State University**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dsharma4041&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Building dependable software at the intersection of AI, full-stack development, and cybersecurity.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dsharma4041.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharma-dikshant-/)
+
+</div>
+
+## About me
+
+- 🎓 B.S. in Computer Science at Arizona State University — graduating May 2027
+- 💻 Technology Support Specialist at ASU with experience in full-stack development and cybersecurity
+- 🤖 Interested in software engineering, AI/ML, prompt engineering, AI quality, and secure systems
+- 🌱 Currently deepening my skills in machine learning, backend development, and dependable AI systems
+- 🎯 Seeking 2027 internship and new-grad opportunities
+
+## Featured work
+
+| Project | What I built | Technologies |
+| --- | --- | --- |
+| [Professional Portfolio](https://dsharma4041.github.io/portfolio/) | A responsive portfolio showcasing my public work, experience, skills, and credentials | HTML, CSS, JavaScript |
+| [URL Shortener Platform](https://github.com/dsharma4041/FUTURE_FS_03) | A full-stack URL shortener with user authentication and link management | JavaScript, Node.js, MongoDB |
+| [Recipe Sharing Platform](https://github.com/dsharma4041/FUTURE_FS_02) | A cooking community app for discovering and sharing recipes | JavaScript, Node.js |
+| Adaptive Cruise Control with Human Feedback | A simulation exploring adaptive control behavior and human feedback | Python, Simulink |
+| Marketing Decision Agent | A data-driven agent combining supervised learning with A/B testing | Python, Machine Learning |
+
+## Core toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+## Selected credentials
+
+- Machine Learning — Stanford Online / Coursera
+- Elements of AI — University of Helsinki
+- Data Science 101 — IBM
+- Fundamentals of Digital Marketing — Google Digital Garage
+- Business Analysis — Coursera
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dsharma4041&show_icons=true&hide_border=true&rank_icon=github" alt="Dikshant's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsharma4041&layout=compact&hide_border=true" alt="Dikshant's most-used languages" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dsharma4041&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sharmaji4198) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <strong>Let's build reliable, useful technology.</strong><br />
+  <a href="https://dsharma4041.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sharma-dikshant-/">LinkedIn</a>
+</div>
